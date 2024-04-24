@@ -64,6 +64,4 @@ Sou o lucieudo roberto, um entusiasta da tecnologia. Vamos construir coisas incr
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
