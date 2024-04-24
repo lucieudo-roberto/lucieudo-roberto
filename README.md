@@ -1,3 +1,7 @@
+<picture>
+  <source media="(min-width: 769px)" srcset="banner.png">
+</picture>
+
 <h3 align="left"> Olá! 
 Sou o lucieudo roberto, um entusiasta da tecnologia. Vamos construir coisas incríveis juntos?
 </h3>
