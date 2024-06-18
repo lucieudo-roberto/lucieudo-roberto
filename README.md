@@ -14,7 +14,6 @@ Sou o lucieudo roberto, um entusiasta da tecnologia. Vamos construir coisas incr
 
 ###
 
-<img align="right" height="190" src="https://i.pinimg.com/originals/a1/4d/58/a14d58e39c3d9d59bee3a6d887d197e9.gif"  />
 <br>
 <br>
 
